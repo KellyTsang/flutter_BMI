@@ -20,7 +20,7 @@ This the the simple App Calculating BMI based on Hong Kong standard. Browse
 Centre of Health Protection: https://www.chp.gov.hk/en/healthtopics/content/25/8802.html
 There are certain levels of BMI in the app showing:
 1. 'Underweight' : BMI less than 18.5 is underweight
-2.'Normal weight' : BMI within 18.5 and 22.9 is normal.
+2. 'Normal weight' : BMI within 18.5 and 22.9 is normal.
 3. 'Overweight-edge' : BMI between 23 and 24.9 is overweight
 4. 'Obesity-moderate!!': BMI between 25 and 29.9 is Obesity-moderate
 5. 'Obesity-severe!!!!!!': BMI more than 30 is Obesity-severe
